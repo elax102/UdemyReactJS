@@ -5,6 +5,6 @@ This is my coursework for Udemy React class.
 Source:
 https://github.com/StephenGrider/ReactCasts
 
-Todo:
+##Todo:
 
-Install browserify to compile jsx.
+- Install browserify to compile jsx.
